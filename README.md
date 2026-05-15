@@ -72,13 +72,13 @@
 - 山寨币最多，适合埋伏新币——多数币上欧易/币安前会先上芝麻，诞生过大量百倍千倍币
 - 注册后记得领**数字货币盲盒**
 
-### 3. [币安 Binance](https://accounts.marketwebb.ac/register?ref=25203322) `全球最大`
+### 3. 币安 Binance `全球最大`
 
 | | |
 |---|---|
-| **免翻墙链接** | [accounts.marketwebb.ac/register?ref=25203322](https://accounts.marketwebb.ac/register?ref=25203322) |
-| **备用链接（需翻墙）** | [binance.com/register?ref=25203322](https://accounts.binance.com/zh-CN/register?ref=25203322) |
-| **邀请码** | `25203322` |
+| **免翻墙链接** | [https://www.bsmkweb.cc/join?ref=QUAGMIRE](https://www.bsmkweb.cc/join?ref=25203322) |
+| **备用链接（需翻墙）** | [binance.com/register?ref=QUAGMIRE](https://accounts.binance.com/zh-CN/register?ref=QUAGMIRE) |
+| **邀请码** | `QUAGMIRE` |
 
 - 全球交易量第一
 - 注册问题参考 → [KYC 过审教程](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
