@@ -76,8 +76,8 @@
 
 | | |
 |---|---|
-| **免翻墙链接** | [https://www.bsmkweb.cc/join?ref=QUAGMIRE](https://www.bsmkweb.cc/join?ref=25203322) |
-| **备用链接（需翻墙）** | [binance.com/register?ref=QUAGMIRE](https://accounts.binance.com/zh-CN/register?ref=QUAGMIRE) |
+| **免翻墙链接** | [www.bsmkweb.cc/join?ref=QUAGMIRE](https://www.bsmkweb.cc/join?ref=QUAGMIRE) |
+| **备用链接（需翻墙）** | [binance.com/register?ref=QUAGMIRE](https://accounts.binance.com/zh-CN?ref=QUAGMIRE) |
 | **邀请码** | `QUAGMIRE` |
 
 - 全球交易量第一
