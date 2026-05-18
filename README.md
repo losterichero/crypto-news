@@ -83,14 +83,25 @@
 - 全球交易量第一
 - 注册问题参考 → [KYC 过审教程](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 
-### 其他交易所
 
-| 交易所 | 链接 | 邀请码 | 特点 |
-|---|---|---|---|
-| **Bitget** | [partner.dhxrcw.cn/bg/1E5FYW](https://partner.hdmune.cn/bg/quagmire) | `quagmire` | 合约交易、一键跟单 |
-| **火币 HTX** | [htx.com](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223) | `t5bw8223` | 孙宇晨接手，关注度高 |
-| **抹茶 MEXC** | [mexc.com](https://www.mexc.com/) | — | 山寨币上新最快 |
-| **Bybit** | [bybit.com](https://partner.bybit.com/b/QUAGMIRE) | QUAGMIRE | 香港台湾用得多 |
+### 4. [Bitget](https://partner.hdmune.cn/bg/quagmire) `合约跟单`
+
+| | |
+|---|---|
+| **链接** | [partner.dhxrcw.cn/bg/1E5FYW](https://partner.hdmune.cn/bg/quagmire) |
+| **邀请码** | `quagmire` |
+| **特点** | 合约交易、一键跟单 |
+
+- 主打合约交易，支持一键跟单
+
+
+### 5. [Bybit](https://partner.bybit.com/b/QUAGMIRE) `港台常用`
+
+| | |
+|---|---|
+| **链接** | [bybit.com](https://partner.bybit.com/b/QUAGMIRE) |
+| **邀请码** | `QUAGMIRE` |
+| **特点** | 香港台湾用得多 |
 
 > [!WARNING]
 > 投资加密货币存在市场和平台风险，请充分了解后再参与。
@@ -112,7 +123,7 @@
 
 | 名称 | 链接 | 说明 |
 |---|---|---|
-| **sms-activate** | [sms-activate.io](https://sms-activate.io/?ref=8252577) | 出售虚拟手机号接收短信验证码，覆盖 180+ 国家（含中国），支持支付宝充值 |
+| **hero-sms** | [hero-sms.com](https://hero-sms.com/?ref=1002620) | 出售虚拟手机号接收短信验证码，覆盖 180+ 国家（含中国），支持支付宝充值 |
 
 ---
 
