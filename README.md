@@ -61,13 +61,13 @@
 - **6 个月未登录的账户**通过链接重新登录也可获返佣
 
 
-### 2. [芝麻开门 Gate.io](https://www.gatesite.space/share/ABCDBBBB) `山寨币最多`
+### 2. [芝麻开门 Gate.io](https://www.gatesite.cc/share/QUAGMIRE) `山寨币最多`
 
 | | |
 |---|---|
-| **免翻墙链接** | [gatesite.space/share/ABCDBBBB](https://www.gatesite.space/share/ABCDBBBB) |
-| **备用链接（需翻墙）** | [gate.io/signup/ABCDBBBB](https://www.gate.io/signup/ABCDBBBB?ref_type=103) |
-| **邀请码** | `ABCDBBBB` |
+| **免翻墙链接** | [gatesite.cc/share/QUAGMIRE](https://www.gatesite.cc/share/QUAGMIRE) |
+| **备用链接（需翻墙）** | [gate.io/share/QUAGMIRE](https://www.gate.io/share/QUAGMIRE) |
+| **邀请码** | `QUAGMIRE` |
 
 - 山寨币最多，适合埋伏新币——多数币上欧易/币安前会先上芝麻，诞生过大量百倍千倍币
 - 注册后记得领**数字货币盲盒**
@@ -87,10 +87,10 @@
 
 | 交易所 | 链接 | 邀请码 | 特点 |
 |---|---|---|---|
-| **Bitget** | [partner.dhxrcw.cn/bg/1E5FYW](https://partner.dhxrcw.cn/bg/1E5FYW) | `1E5FYW` | 合约交易、一键跟单 |
+| **Bitget** | [partner.dhxrcw.cn/bg/1E5FYW](https://partner.hdmune.cn/bg/quagmire) | `quagmire` | 合约交易、一键跟单 |
 | **火币 HTX** | [htx.com](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223) | `t5bw8223` | 孙宇晨接手，关注度高 |
 | **抹茶 MEXC** | [mexc.com](https://www.mexc.com/) | — | 山寨币上新最快 |
-| **Bybit** | [bybit.com](https://www.bybit.com/) | — | 香港台湾用得多 |
+| **Bybit** | [bybit.com](https://partner.bybit.com/b/QUAGMIRE) | QUAGMIRE | 香港台湾用得多 |
 
 > [!WARNING]
 > 投资加密货币存在市场和平台风险，请充分了解后再参与。
