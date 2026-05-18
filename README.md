@@ -88,7 +88,7 @@
 
 | | |
 |---|---|
-| **链接** | [partner.dhxrcw.cn/bg/1E5FYW](https://partner.hdmune.cn/bg/quagmire) |
+| **链接** | [partner.hdmune.cn](https://partner.hdmune.cn/bg/quagmire) |
 | **邀请码** | `quagmire` |
 | **特点** | 合约交易、一键跟单 |
 
